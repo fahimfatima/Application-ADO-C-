@@ -1,0 +1,132 @@
+C:\Users\FATIMA\Desktop\Projet Gestion D'inventaire\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FATIMA\Desktop\Projet Gestion D'inventaire\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\Projet Gestion D'inventaire\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\Projet Gestion D'inventaire\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FATIMA\Desktop\Projet Gestion D'inventaire\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FATIMA\Desktop\Projet Gestion D'inventaire\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\Projet Gestion D'inventaire\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\Projet Gestion D'inventaire\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FATIMA\Desktop\Projet Gestion D'inventaire\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FATIMA\Desktop\Projet Gestion D'inventaire\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.inscrire.resources
+C:\Users\FATIMA\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FATIMA\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.inscrire.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Article.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Stock.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ArticleModifier.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Technicien.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterFournisseur.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterTechnicien.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fournisseur.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierFournisseur.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierTechnicien.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Marque.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifMarque.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.gestionmarque.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterGategorie.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gategorie.resources
+C:\Users\FATIMA\Desktop\Projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierGategorie.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterFournisseur.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterGategorie.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterTechnicien.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Article.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ArticleModifier.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fournisseur.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gategorie.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.gestionmarque.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.inscrire.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Marque.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierFournisseur.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierGategorie.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierTechnicien.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifMarque.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Stock.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Technicien.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterCommande.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.commande.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.statistique_ARTICLE.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Achat.resources
+C:\Users\FATIMA\Desktop\LICENCE PRO\Conception-Base-Donnee\Projet Gestion D'inventaire\realisation du projet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterAchat.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Achat.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterAchat.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterCommande.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterFournisseur.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterGategorie.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterTechnicien.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Article.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ArticleModifier.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.commande.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fournisseur.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gategorie.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.gestionmarque.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.inscrire.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Marque.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierFournisseur.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierGategorie.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierTechnicien.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifMarque.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.statistique_ARTICLE.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Stock.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Technicien.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application-Base-Donnee\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Achat.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterAchat.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterCommande.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterFournisseur.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterGategorie.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjouterTechnicien.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Article.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ArticleModifier.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.commande.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fournisseur.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gategorie.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.gestionmarque.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.inscrire.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Marque.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierFournisseur.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierGategorie.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierTechnicien.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifMarque.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.statistique_ARTICLE.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Stock.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Technicien.resources
+C:\Users\FATIMA\Desktop\FahimFatima-LP-ABDTW\FICHIER .RAR\Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
